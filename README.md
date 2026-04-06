@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Pepe</h1>
+<h1 align="center"> Hi, im Bolzan </h1>
 
 <p align="center">
   <i>Low-level programming • Game development • Linux enthusiast</i>
@@ -10,14 +10,14 @@
 
 <hr>
 
-<h2>🧠 About Me</h2>
+<h2> About Me</h2>
 
 <p>
-  • 💻 Focused on C and low-level programming <br>
-  • 🎮 Building games with Raylib <br>
-  • 🐧 Daily driving Linux (Fedora + Hyprland) <br>
-  • ⚙️ Interested in systems and performance <br>
-  • 💙 Grêmio Foot-Ball Porto Alegrense fan
+  •  Focused on C and low-level programming <br>
+  •  Building games with Raylib <br>
+  •  Daily driving Linux (Fedora + Hyprland) <br>
+  •  Interested in systems and performance <br>
+  •  Grêmio Foot-Ball Porto Alegrense fan
 </p>
 
 <pre align="center">
@@ -77,7 +77,7 @@
 
 <hr>
 
-<h2>⚙️ Tech Stack</h2>
+<h2> Tech Stack</h2>
 
 <p>
   <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=white">
