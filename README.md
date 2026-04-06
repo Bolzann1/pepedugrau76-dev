@@ -22,9 +22,8 @@
 </p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Gremio_logo.svg/512px-Gremio_logo.svg.png" width="120">
+  <img src="./assets/gremio.png" width="120">
 </p>
-
 <hr>
 
 <h2>⚙️ Tech Stack</h2>
